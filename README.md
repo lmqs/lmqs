@@ -5,7 +5,7 @@
 - 💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓 &nbsp; Graduate in computer science in UNIT
 - 🎓 &nbsp; Master's in Computer Science with a focus on Intelligent Computing in UFS
-- 💼 &nbsp; My job is backend developer na <a href="https://www.objective.com.br/">Objective</a>
+- 💼 &nbsp; My job is backend developer in <a href="https://www.objective.com.br/">Objective</a>
 - 💼 &nbsp; At work I use the tools: **nodejs, python, react, angular, git, jenkins, aws, jira and trello.**
 - 🌱 &nbsp; Learning about **react, clean code, unit tests, ci/cd and AWS**.
 - 🔭 &nbsp; Area of interest is in **Financial Markets, Data Sciences and Deep learning**.
